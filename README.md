@@ -45,6 +45,8 @@ The report contains five pages, organized for a logical flow from high-level to 
 A dedicated landing page with four styled action buttons that navigate to each analytical section. This keeps the report clean and presentation-ready for stakeholder walkthroughs.
 
 ![Navigation Hub](screenshot_page1_navigation.png)
+<img width="1346" height="575" alt="Screenshot 2026-04-28 173230" src="https://github.com/user-attachments/assets/105e19aa-1f3e-4d75-bc90-662f5dd762ad" />
+
 
 ---
 
@@ -55,6 +57,8 @@ The top-level summary page presenting organization-wide performance at a glance.
 **Headline numbers:** Total Revenue 844.02K | Total Profit 10.14K | Total Orders 1K | Return Rate 0.05
 
 ![Executive Overview](screenshot_page2_executive_overview.png)
+<img width="1411" height="795" alt="Screenshot 2026-04-28 173137" src="https://github.com/user-attachments/assets/72dfb36f-12e1-4bcd-adc9-4ca944550934" />
+
 
 Visuals on this page:
 - Four KPI cards — Total Revenue, Total Profit, Total Orders, Return Rate
@@ -73,6 +77,8 @@ A deep-dive into product performance covering revenue, units sold, profitability
 **Key insight:** Technology is the only profitable category (Profit Margin 0.16). Furniture and Office Supplies both show negative profit, making this page critical for pricing and portfolio decisions.
 
 ![Product Analysis](screenshot_page3_product_analysis.png)
+<img width="1409" height="784" alt="Screenshot 2026-04-28 173350" src="https://github.com/user-attachments/assets/34fcaa3e-273e-471c-a3ca-59b1551f517e" />
+
 
 Visuals on this page:
 - Three KPI cards — Total Revenue 844.02K, Total Units Sold 6K, Profit Margin % 0.01
@@ -93,6 +99,8 @@ Focused on customer behavior and return patterns to surface operational risk and
 **Key insight:** Home Office segment in the North region carries the highest return rate (0.07). Customer Change is the leading return reason. Return Rate Status is flagged as "Monitor" at the overall level.
 
 ![Customer and Returns Analysis](screenshot_page4_customer_returns.png)
+<img width="1405" height="784" alt="Screenshot 2026-04-28 173427" src="https://github.com/user-attachments/assets/82446fee-9926-48e7-984b-82306a78efac" />
+
 
 Visuals on this page:
 - Four KPI cards — Total Customers 198, Avg Order Value 844.02, Return Rate 0.05, Return Rate Status: Monitor
@@ -117,6 +125,8 @@ Visuals on this page:
 A drillthrough page accessible by right-clicking any product name across the report. It renders that product's complete revenue, units, profit, returns, time-series trend, and individual customer transaction table automatically. A back-navigation button returns the user to the originating page.
 
 ![Drillthrough: Product Detail](screenshot_page5_product_detail.png)
+<img width="1411" height="790" alt="Screenshot 2026-04-28 173455" src="https://github.com/user-attachments/assets/0374c946-d90e-4eff-8f8d-f25f94a9e697" />
+
 
 Visuals on this page:
 - Four KPI cards — Total Revenue 4.73K, Total Units Sold 31, Total Profit -420.93, Total Returns 1
