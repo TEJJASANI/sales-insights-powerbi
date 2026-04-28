@@ -1,0 +1,51 @@
+ReturnID,SaleID,ReturnReason,ReturnDate
+1,22,Late Delivery,2025-06-07
+2,5,Late Delivery,2025-06-07
+3,552,Late Delivery,2025-06-07
+4,991,Wrong Item,2025-06-07
+5,804,Late Delivery,2025-06-07
+6,340,Wrong Item,2025-06-07
+7,682,Wrong Item,2025-06-07
+8,888,Wrong Item,2025-06-07
+9,959,Late Delivery,2025-06-07
+10,393,Late Delivery,2025-06-07
+11,672,Late Delivery,2025-06-07
+12,864,Customer Changed Mind,2025-06-07
+13,51,Late Delivery,2025-06-07
+14,66,Defective,2025-06-07
+15,494,Wrong Item,2025-06-07
+16,683,Wrong Item,2025-06-07
+17,778,Customer Changed Mind,2025-06-07
+18,54,Defective,2025-06-07
+19,246,Wrong Item,2025-06-07
+20,508,Defective,2025-06-07
+21,364,Late Delivery,2025-06-07
+22,177,Customer Changed Mind,2025-06-07
+23,402,Defective,2025-06-07
+24,996,Late Delivery,2025-06-07
+25,757,Defective,2025-06-07
+26,137,Defective,2025-06-07
+27,378,Customer Changed Mind,2025-06-07
+28,613,Late Delivery,2025-06-07
+29,839,Late Delivery,2025-06-07
+30,243,Late Delivery,2025-06-07
+31,952,Defective,2025-06-07
+32,943,Defective,2025-06-07
+33,555,Late Delivery,2025-06-07
+34,819,Customer Changed Mind,2025-06-07
+35,998,Wrong Item,2025-06-07
+36,76,Defective,2025-06-07
+37,940,Customer Changed Mind,2025-06-07
+38,535,Late Delivery,2025-06-07
+39,796,Wrong Item,2025-06-07
+40,957,Defective,2025-06-07
+41,526,Defective,2025-06-07
+42,158,Defective,2025-06-07
+43,44,Wrong Item,2025-06-07
+44,294,Late Delivery,2025-06-07
+45,641,Customer Changed Mind,2025-06-07
+46,674,Customer Changed Mind,2025-06-07
+47,144,Defective,2025-06-07
+48,130,Late Delivery,2025-06-07
+49,680,Customer Changed Mind,2025-06-07
+50,283,Defective,2025-06-07
